@@ -16,4 +16,4 @@ cl : command line  warning D9002: ignoring unknown option '-lgdi32'
   win32_window.c
   window.c
   Generating Code...
-  MyGLFW.vcxproj -> F:\DEV\Sources\VisualStudio\MyHazel\MyHazel\vendor\MyGLFW\bin\Debug-windows-x86_64\MyGLFW\MyGLFW.lib
+  MyGLFW.vcxproj -> C:\Users\aless\Documents\Docs_offline\Dev\VS\MyHazel\MyHazel\vendor\MyGLFW\bin\Debug-windows-x86_64\MyGLFW\MyGLFW.lib

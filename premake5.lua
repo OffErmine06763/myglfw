@@ -5,6 +5,8 @@ project "MyGLFW"
 	targetdir ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	buildoptions "/MP"
+
 	files
 	{
 		"include/GLFW/glfw3.h",
